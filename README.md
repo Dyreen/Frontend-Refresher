@@ -11,3 +11,7 @@ As the refresher goes on the aspects of the code will get more and more complex
 <p>
 2. The second project is the creation of a coffee cafe menu. The challange is from https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/
 </p>
+
+<p>
+3. The third project is centered areound understanding colors using css. The challange is from https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step
+</p>
